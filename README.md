@@ -1,1 +1,2 @@
 # AR-ENABLED-DOUBLE-HELICAL-STRUCTURE-OF-DNA
+This project aims to create an interactive and engaging way for students and researchers to learn about the structure of DNA by developing a 3D model using Augmented Reality (AR) technology. This model will allow users to manipulate and explore the double helix in a way that is not possible with traditional 2D diagrams. By immersing users in the molecular world of DNA, the goal is to enhance their understanding and retention of the complex information and make the learning process more interactive and fun
